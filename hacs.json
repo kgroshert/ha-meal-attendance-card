@@ -1,0 +1,6 @@
+{
+  "name": "Meal Attendance Card",
+  "filename": "ha-meal-attendance-card.js",
+  "render_readme": true,
+  "homeassistant": "2023.1.0"
+}
